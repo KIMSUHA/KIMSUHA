@@ -13,7 +13,7 @@
 }
 .nav__link {
   position: relative;
-  color: darkslategray;
+  color: var(--text-color);
 }
 .nav__notification1 {
   background-color: crimson;
