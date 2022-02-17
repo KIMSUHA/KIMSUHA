@@ -16,15 +16,6 @@
   color: var(--text-color);
 }
 .nav__notification1 {
-  background-color: crimson;
-  width: 20px;
-  height: 20px;
-  border-radius: 50%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: white;
-  font-weight: 600;
   position: absolute;
   left: 20px;
   bottom: 15px;
